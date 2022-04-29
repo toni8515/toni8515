@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toni8515
+- 👋 Hi, I’m Toni
 - 👀 I’m interested in tennis, watching movies, and programming
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on nothing yet, but definitely in the future!
