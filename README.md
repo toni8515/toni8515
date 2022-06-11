@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toni
 - 👀 I’m interested in tennis, watching movies, and programming
 - 🌱 I’m currently learning JavaScript and Python
-<!-- - 💞️ I’m looking to collaborate on projects -->
+- 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me jiaseeles@gmail.com
 
 <!---
